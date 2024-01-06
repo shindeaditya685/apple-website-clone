@@ -32,15 +32,10 @@ nav {
     gap: 2.5rem;
 }
 
-.corner-icon {
-    display: flex;
-    gap: 2rem;
-    flex-direction: end;
-}
 
-.menu-icon {
-    display: none;
-}
+
+
+
 
 .nav-links {
     gap: 2rem;
