@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+    nav {
+        height: 12vh;
+        width: 100%;
+        padding: 1rem;
+        display: flex;
+        justify-content: start;
+    }
+    .nav-links {
+        display: none;
+    }
+
+    
+}
